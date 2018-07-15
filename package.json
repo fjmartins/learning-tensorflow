@@ -1,0 +1,22 @@
+{
+  "name": "learning-tensorflowjs",
+  "version": "1.0.0",
+  "description": "Applying tensorflowjs in real world problems",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjmartins/learning-tensorflowjs.git"
+  },
+  "author": "Fabio M. S. Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjmartins/learning-tensorflowjs/issues"
+  },
+  "homepage": "https://github.com/fjmartins/learning-tensorflowjs#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.2"
+  }
+}
